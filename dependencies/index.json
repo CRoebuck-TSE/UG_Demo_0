@@ -1,8 +1,15 @@
 {
   "schema": 1,
   "repo": "CRoebuck-TSE/UG_Demo_0",
-  "sha": "a7b47cf5a43289a57b9566193c3ddd358dbf7910",
+  "sha": "2fa92c718c1111b23c9431107a4a4d6bd4f4b241",
   "revisions": [
+    {
+      "sha": "2fa92c718c1111b23c9431107a4a4d6bd4f4b241",
+      "short": "2fa92c7",
+      "message": "Add LabVIEW CI pipeline",
+      "author": "CRoebuck-TSE",
+      "date": "2026-06-25T06:12:24Z"
+    },
     {
       "sha": "a7b47cf5a43289a57b9566193c3ddd358dbf7910",
       "short": "a7b47cf",
